@@ -2,16 +2,6 @@
 I’m a software engineer from 📍India, dreaming of moving to Japan as a senior software engineer 🏯.  
 I love open source and am always trying to level up my coding skills. Honestly, I find working on real-world big projects and spending hours figuring things out teaches you way more than just building personal projects from scratch (though I still do those 😅).
 
-### Why Japan?  
-I grew up watching anime and being a bit of an introvert (nowadays, I'm more of an ambivert!). Anime helped me get through life’s ups and downs — and yeah, _it’s not just a cartoon_ 🥹.  
-As I got older, I became drawn to the calm, routine life of Japan — especially inspired by those beautiful Studio Ghibli-style vibes.  
-Then I discovered engines, motorbikes, and cars, and got hooked on **hashiriya (走り屋)** — the Japanese street racers scene.  
-Japanese engines and car mods are fascinating, and I’m really eager to dive into the underground car culture there at least once!  
-
-> Fun fact: I ride a British Triumph motorcycle and drive my father’s old Nissan — it’s manual, with no electronics, and I absolutely love it! 💖
-
-I know the tech world isn’t exactly slow-paced, but I want to experience that slower lifestyle, live there, eat there, and learn the language properly — aiming for JLPT N1 someday! (Currently, I’m at N5, so it’s a journey 😅).
-
 ---
 
 ## About My Tech Career  
