@@ -139,5 +139,5 @@ The best way to reach me is **[LinkedIn](https://www.linkedin.com/in/suvadeepgho
 ---
 
 <p align="center">
-  <sub>Currently engineering at <b>LTIM</b> · Building toward AWS &amp; Claude practitioner depth.</sub>
+  <sub>Currently engineering at <b>LTM</b> · Building toward AWS &amp; Claude practitioner depth.</sub>
 </p>
